@@ -6,13 +6,13 @@ Este projeto é uma aplicação Java simples que identifica a bandeira de um car
 
 - **Identificação automática da bandeira** (Visa, MasterCard, Amex, etc.)
 - **Linguagem utilizada Java**
-- **Compatível com cartões de teste gerados pelo [4Devs](https://www.4devs.com.br/gerador_de_numero_cartao)**
+- **Compatível com cartões de teste gerados pelo [4Devs](https://www.4devs.com.br/gerador_de_numero_cartao_credito)**
 
 ## 🛠️ Como Usar
 
 ### 1. Gere um número de cartão de crédito para teste
 
-Acesse o site [4Devs - Gerador de Cartão de Crédito](https://www.4devs.com.br/gerador_de_numero_cartao)  
+Acesse o site [4Devs - Gerador de Cartão de Crédito](https://www.4devs.com.br/gerador_de_numero_cartao_credito)  
 Escolha a bandeira desejada e gere um número válido.
 
 ### 2. Compile o projeto
